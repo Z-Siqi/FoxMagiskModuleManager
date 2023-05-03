@@ -137,7 +137,7 @@
     <integer name="language_support_level">1</integer>
     <string name="language_support_outdated">当前语言的一些翻译不是最新的， 请考虑在 GitHub 上为应用程序的翻译做出贡献</string>
     <!-- Replace with your own username when translating -->
-    <string name="language_translated_by">简体中文由 ender-zhao &amp; ycx 翻译</string>
+    <string name="language_translated_by">简体中文由 Z-Siqi &amp; ycx 翻译</string>
     <string name="crash_reporting">自动向开发人员报告错误和性能</string>
     <string name="crash_reporting_desc">如果禁用此功能，开发人员将不会收到自动错误报告，这可能会使故障排除变得困难</string>
     <string name="api_key">Androidacy API 密钥</string>
@@ -398,4 +398,6 @@
     <string name="donate_androidacy_sum">购买 Androidacy premium 订阅以支持应用和仓库。</string>
     <string name="promo_code_copied">使用复制的代码，第一个月可享受半价优惠！</string>
     <string name="warning_pls_restart">请注意，某些设置可能在您重新启动应用程序后才会生效。</string>
+    <string name="reinstall">重新安装</string>
+    <string name="setup_scroll_down_v2">要启用完成按钮，请滚动到底部并确认您已阅读并同意 EULA 和许可。</string>
 </resources>
